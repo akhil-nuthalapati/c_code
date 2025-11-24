@@ -3,7 +3,7 @@ int binarysearch(int a[], int n, int tar) {
     int st = 0, end = n - 1, mid;
 
     while(st <= end) {
-        mid = (st + end) / 2;
+        mid = st + (end - st)/2;
         if(a[mid] == tar)
             return mid + 1;
 
