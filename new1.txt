@@ -1,0 +1,17 @@
+hello i am akhil nuthalapati
+today i am here to share my thougths on space and time complexity the heartbeat of a algorithm
+we always just dont try to run a code to work but we want it to be written in a way that it takes less t
+ime and less amount of memory is consumed. thats where the space and time complexity steps in.
+time complexity, we time complexiy is the measure ment of the increase in amount of time with the increa
+se in user input for the programme executin. for example if the user input is doubled and the time take 
+for execution is also doubled then it shows linear time complexity o(n). and if the user input is double
+ d and the execution time becomes square of its previous method its a quadratic time complexity o(n^2).
+
+on the other hand we have space complexity its mostly used to determine the extra amount of space requir
+ed to run a programme. it also counts the variables, data structures, recursion stacks,etc...
+
+so for the best practice a programmer must write a code in a faster and a way which consumes less memory
+. its like tuning a car for both fuel and speed efficiency.
+
+so i conclude that the space and time complexity isnt just theroy-- but a way to write an algorithm smar
+tlt,efficiently and in a scalable manner.
